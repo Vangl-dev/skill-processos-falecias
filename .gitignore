@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# resultados de testes com autos reais nunca entram no repositório
+*.db
+*.db.anterior
+*.pdf
+*.csv
